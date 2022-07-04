@@ -1,6 +1,6 @@
 # Coffee Machine Python
 
-Simple coffe machine simulator.
+Simple coffee machine simulator.
 
 ## Description
 
