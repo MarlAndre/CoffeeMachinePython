@@ -1,4 +1,4 @@
-# Coffe Machine Python
+# Coffee Machine Python
 
 Simple coffe machine simulator.
 
